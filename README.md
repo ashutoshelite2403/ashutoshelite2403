@@ -103,7 +103,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/ashutoshelite2403">
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=ashutoshelite2403&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+    <img alt="GitHub Trophies" src="https://github-trophies.vercel.app/?username=ashutoshelite2403&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
   </a>
 </p>
 <br />
@@ -146,7 +146,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshelite2403&bg_color=000000&color=ffffff&line=00ff88&point=00ff88&area=false&hide_border=false" border-radius="15">
+    <img src="https://ghchart.rshah.org/00ff88/ashutoshelite2403" alt="Contribution graph" width="100%" />
 </div>
 
 ---
